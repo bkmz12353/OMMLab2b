@@ -1,0 +1,51 @@
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 — копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 — копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 — копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 — копия\WindowsFormsApplication2\obj\Debug\Spline.csproj.GenerateResource.Cache
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 копия\WindowsFormsApplication2\obj\Debug\Spline.csprojResolveAssemblyReference.cache
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 копия\WindowsFormsApplication2\obj\Debug\Spline.csproj.GenerateResource.Cache
+C:\Users\dmitr\OneDrive\Projects\C#Projects\Betta spline\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\dmitr\OneDrive\Projects\C#Projects\Betta spline\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\dmitr\OneDrive\Projects\C#Projects\Betta spline\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\User\Downloads\betta_spline\Betta spline\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\User\Downloads\betta_spline\Betta spline\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\User\Downloads\betta_spline\Betta spline\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\User\Downloads\betta_spline\Betta spline\WindowsFormsApplication2\obj\Debug\Spline.csprojAssemblyReference.cache
+C:\Users\User\Downloads\betta_spline\Betta spline\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\User\Downloads\betta_spline\Betta spline\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\User\Downloads\betta_spline\Betta spline\WindowsFormsApplication2\obj\Debug\Spline.csproj.GenerateResource.cache
+C:\Users\User\Downloads\betta_spline\Betta spline\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\User\Downloads\betta_spline\Betta spline\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\User\Desktop\курсовая\ursovaia1\Betta spline\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\User\Desktop\курсовая\ursovaia1\Betta spline\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\User\Desktop\курсовая\ursovaia1\Betta spline\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\User\Desktop\курсовая\ursovaia1\Betta spline\WindowsFormsApplication2\obj\Debug\Spline.csprojAssemblyReference.cache
+C:\Users\User\Desktop\курсовая\ursovaia1\Betta spline\WindowsFormsApplication2\obj\Debug\Interop.SearchIntegrationExeLib.dll
+C:\Users\User\Desktop\курсовая\ursovaia1\Betta spline\WindowsFormsApplication2\obj\Debug\Spline.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\курсовая\ursovaia1\Betta spline\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\User\Desktop\курсовая\ursovaia1\Betta spline\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\User\Desktop\курсовая\ursovaia1\Betta spline\WindowsFormsApplication2\obj\Debug\Spline.csproj.GenerateResource.cache
+C:\Users\User\Desktop\курсовая\ursovaia1\Betta spline\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\User\Desktop\курсовая\ursovaia1\Betta spline\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\User\Desktop\ОММ\lab2\cursovaia\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\User\Desktop\ОММ\lab2\cursovaia\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\User\Desktop\ОММ\lab2\cursovaia\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\User\Desktop\ОММ\lab2\cursovaia\WindowsFormsApplication2\obj\Debug\Spline.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ОММ\lab2\cursovaia\WindowsFormsApplication2\obj\Debug\Interop.SearchIntegrationExeLib.dll
+C:\Users\User\Desktop\ОММ\lab2\cursovaia\WindowsFormsApplication2\obj\Debug\Spline.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\ОММ\lab2\cursovaia\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\User\Desktop\ОММ\lab2\cursovaia\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\User\Desktop\ОММ\lab2\cursovaia\WindowsFormsApplication2\obj\Debug\Spline.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ОММ\lab2\cursovaia\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\User\Desktop\ОММ\lab2\cursovaia\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

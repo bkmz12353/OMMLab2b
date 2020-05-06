@@ -1,0 +1,17 @@
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Snowman.csproj.GenerateResource.Cache
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 — копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 — копия\WindowsFormsApplication2\obj\Debug\Snowman.csprojResolveAssemblyReference.cache
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 — копия\WindowsFormsApplication2\obj\Debug\Snowman.csproj.GenerateResource.Cache
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 — копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\dmitr\OneDrive\Projects\C#Projects\WindowsFormsApplication2 — копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
